@@ -1,66 +1,114 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Full-Stack MERN Developer (Backend-Focused)  
+REST API Architecture | MongoDB Schema Design | Authentication Systems | React Integration | Problem Solving
 
-###
+Backend-leaning full-stack developer experienced in building end-to-end MERN applications from scratch. Focused on designing RESTful API layers, modeling MongoDB collections based on application workflows, and integrating React-based client interfaces with protected backend services.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/muskan-bhagwashiya-144564331/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/25muskaaan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+## Full Stack System Development
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kartik3030.kartik3030&"  />
-</div>
+- Engineered complete MERN stack applications from database schema to frontend interface  
+- Designed RESTful backend services using Node.js and Express  
+- Modeled MongoDB collections aligned with application-level workflows  
+- Integrated React frontend with protected backend API routes  
+- Managed authentication state across client-server boundary  
+- Implemented cookie-based session authentication  
+- Built UI workflows aligned with backend role-based access logic  
+- File upload integration using Multer across application modules  
+- Environment-variable based configuration for deployment  
 
-###
+---
 
-<h1 align="center">hey there 👋 I am Muskan</h1>
+## Backend Engineering Focus
 
-###
+- Cookie-Based Authentication  
+- Role-Based Access Control (RBAC)  
+- Secure Password Hashing  
+- MongoDB Schema Design  
+- Async Error Wrapper Pattern  
+- Secure Cookie Configuration  
+- CORS Policy Integration  
+- Environment-Based Configuration  
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## Frontend Engineering Exposure
 
-<p align="left">- 🔭 Web and software developer with a passion for building user-friendly applications<br>- 📚 Always learning and improving through hands-on coding and real-world projects</p>
+- React.js Component-Based UI Design  
+- Protected Route Implementation  
+- Conditional Rendering Based on Auth State  
+- API Consumption using Axios / Fetch  
+- Form-Driven Authentication Workflows  
+- Tailwind-Based Layout Structuring  
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## Flagship Projects
 
-###
+### Funcais — Language Learning Platform
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+**Repository**  
+https://github.com/Muskan0266/Funcais  
 
-###
+**Live Deployment**  
+https://Funcais.onrender.com  
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+- Cookie-based authentication with protected routes  
+- Role-Based Access Control for protected workflows  
+- Secure password hashing  
+- MongoDB schema design for user profiles and progress tracking  
+- Persistent daily streak tracking  
+- Interactive learning modules  
+- Multer-based media upload support  
+- CORS-configured API layer  
+- Secure cookie session handling  
+- React-based learning interface  
+- Auth-state driven conditional rendering  
 
-###
+---
+
+### RendezShow — Event Booking Application
+
+**Repository**  
+https://github.com/Muskan0266/RendezShow  
+
+**Live Deployment**  
+https://rendezshow.onrender.com/  
+
+- RESTful API endpoints for event listing and ticket booking  
+- JSON-backed persistence layer  
+- Server-side routing and form handling  
+- Multer-integrated file upload support  
+- CORS-configured backend  
+- Responsive frontend interface  
+- Client–server integration workflow  
+
+---
+
+## Deployment Stack
+
+- Render Cloud Hosting  
+- GitHub-Based Deployment Workflow  
+- Environment Variable Configuration  
+
+---
+
+## Problem Solving
+
+Practicing Data Structures and Algorithms with focus on:
+
+- Arrays  
+- Strings  
+- Basic Recursion  
+- Iterative Traversal  
+- Pattern-Based Questions  
+
+---
+
+## Contact
+
+LinkedIn:  
+https://www.linkedin.com/in/muskan-bhagwashiya-144564331/
+
+Email:  
+25muskaaan@gmail.com
