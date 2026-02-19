@@ -1,5 +1,5 @@
 # Full-Stack MERN Developer (Backend-Focused)  
-REST API Architecture | MongoDB Schema Design | Authentication Systems | React Integration | Problem Solving
+REST API Architecture | MongoDB Schema Design | JWT Authentication | React Integration | Problem Solving
 
 Backend-leaning full-stack developer experienced in building end-to-end MERN applications from scratch. Focused on designing RESTful API layers, modeling MongoDB collections based on application workflows, and integrating React-based client interfaces with protected backend services.
 
@@ -12,7 +12,7 @@ Backend-leaning full-stack developer experienced in building end-to-end MERN app
 - Modeled MongoDB collections aligned with application-level workflows  
 - Integrated React frontend with protected backend API routes  
 - Managed authentication state across client-server boundary  
-- Implemented cookie-based session authentication  
+- Implemented cookie-based JWT session authentication  
 - Built UI workflows aligned with backend role-based access logic  
 - File upload integration using Multer across application modules  
 - Environment-variable based configuration for deployment  
@@ -21,9 +21,9 @@ Backend-leaning full-stack developer experienced in building end-to-end MERN app
 
 ## Backend Engineering Focus
 
-- Cookie-Based Authentication  
+- Cookie-Based JWT Authentication  
 - Role-Based Access Control (RBAC)  
-- Secure Password Hashing  
+- Secure Password Hashing using bcrypt  
 - MongoDB Schema Design  
 - Async Error Wrapper Pattern  
 - Secure Cookie Configuration  
@@ -53,12 +53,12 @@ https://github.com/Muskan0266/Funcais
 **Live Deployment**  
 https://Funcais.onrender.com  
 
-- Cookie-based authentication with protected routes  
+- Cookie-based JWT authentication with protected routes  
 - Role-Based Access Control for protected workflows  
-- Secure password hashing  
+- Secure password hashing using bcrypt  
 - MongoDB schema design for user profiles and progress tracking  
 - Persistent daily streak tracking  
-- Interactive learning modules  
+- Async error wrapper pattern  
 - Multer-based media upload support  
 - CORS-configured API layer  
 - Secure cookie session handling  
@@ -93,9 +93,9 @@ https://rendezshow.onrender.com/
 
 ---
 
-## Problem Solving
+## Problem Solving (C++)
 
-Practicing Data Structures and Algorithms with focus on:
+Actively practicing Data Structures and Algorithms using C++ with focus on:
 
 - Arrays  
 - Strings  
