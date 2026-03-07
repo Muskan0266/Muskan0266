@@ -1,114 +1,117 @@
-# Full-Stack MERN Developer (Backend-Focused)  
-REST API Architecture | MongoDB Schema Design | JWT Authentication | React Integration | Problem Solving
+# Software Engineer | MERN Stack | Backend Systems
 
-Backend-leaning full-stack developer experienced in building end-to-end MERN applications from scratch. Focused on designing RESTful API layers, modeling MongoDB collections based on application workflows, and integrating React-based client interfaces with protected backend services.
+**Distributed Web Systems | API Architecture | Database Modeling**
 
----
-
-## Full Stack System Development
-
-- Engineered complete MERN stack applications from database schema to frontend interface  
-- Designed RESTful backend services using Node.js and Express  
-- Modeled MongoDB collections aligned with application-level workflows  
-- Integrated React frontend with protected backend API routes  
-- Managed authentication state across client-server boundary  
-- Implemented cookie-based JWT session authentication  
-- Built UI workflows aligned with backend role-based access logic  
-- File upload integration using Multer across application modules  
-- Environment-variable based configuration for deployment  
+Software engineer focused on building full-stack web systems with a strong backend orientation. Experienced in designing RESTful API layers, modeling MongoDB and SQL database structures aligned with application workflows, and integrating React-based client interfaces with secure backend services.
 
 ---
 
-## Backend Engineering Focus
+## Technology Stack
 
-- Cookie-Based JWT Authentication  
-- Role-Based Access Control (RBAC)  
-- Secure Password Hashing using bcrypt  
-- MongoDB Schema Design  
-- Async Error Wrapper Pattern  
-- Secure Cookie Configuration  
-- CORS Policy Integration  
-- Environment-Based Configuration  
-
----
-
-## Frontend Engineering Exposure
-
-- React.js Component-Based UI Design  
-- Protected Route Implementation  
-- Conditional Rendering Based on Auth State  
-- API Consumption using Axios / Fetch  
-- Form-Driven Authentication Workflows  
-- Tailwind-Based Layout Structuring  
+Node.js  
+Express.js  
+React  
+MongoDB  
+SQL  
+REST API Architecture  
+JWT Authentication  
+bcrypt  
+Multer  
+Render Cloud Deployment  
 
 ---
 
-## Flagship Projects
+# Flagship Projects
 
-### Funcais — Language Learning Platform
+## Funcais — Language Learning Platform
 
-**Repository**  
-https://github.com/Muskan0266/Funcais  
+Repository  
+https://github.com/Muskan0266/Funcais
 
-**Live Deployment**  
-https://Funcais.onrender.com  
+Live Deployment  
+https://Funcais.onrender.com
 
-- Cookie-based JWT authentication with protected routes  
-- Role-Based Access Control for protected workflows  
-- Secure password hashing using bcrypt  
-- MongoDB schema design for user profiles and progress tracking  
-- Persistent daily streak tracking  
-- Async error wrapper pattern  
-- Multer-based media upload support  
-- CORS-configured API layer  
-- Secure cookie session handling  
-- React-based learning interface  
-- Auth-state driven conditional rendering  
+* Implemented cookie-based JWT authentication with protected routes
+* Designed role-based access control for protected application workflows
+* Structured MongoDB schema for user profiles and learning progress tracking
+* Implemented persistent daily streak tracking system
+* Built centralized async error handling pattern
+* Integrated Multer-based media upload support
+* Configured CORS-secured API layer
+* Implemented secure cookie session handling
+* Built React-based learning interface with authentication-state driven rendering
 
 ---
 
-### RendezShow — Event Booking Application
+## RendezShow — Event Booking Application
 
-**Repository**  
-https://github.com/Muskan0266/RendezShow  
+Repository  
+https://github.com/Muskan0266/RendezShow
 
-**Live Deployment**  
-https://rendezshow.onrender.com/  
+Live Deployment  
+https://rendezshow.onrender.com/
 
-- RESTful API endpoints for event listing and ticket booking  
-- JSON-backed persistence layer  
-- Server-side routing and form handling  
-- Multer-integrated file upload support  
-- CORS-configured backend  
-- Responsive frontend interface  
-- Client–server integration workflow  
+* Built RESTful API endpoints for event listing and ticket booking
+* Implemented server-side routing and request handling
+* Integrated JSON-based persistence layer
+* Implemented Multer-based file upload handling
+* Configured CORS-secured backend services
+* Built responsive frontend interface
+* Implemented client-server integration for booking workflows
 
 ---
 
-## Deployment Stack
+## Backend Architecture
 
-- Render Cloud Hosting  
-- GitHub-Based Deployment Workflow  
-- Environment Variable Configuration  
+* REST API Architecture
+* Cookie-Based JWT Authentication
+* Role-Based Access Control (RBAC)
+* Secure Password Hashing using bcrypt
+* MongoDB Schema Design
+* SQL Query Design
+* Centralized Error Handling Middleware
+* Async Error Wrapper Pattern
+* Secure Cookie Configuration
+* CORS Policy Configuration
+* Environment-Based Configuration Management
+
+---
+
+## Frontend Engineering
+
+* React Component-Based UI Development
+* Protected Route Implementation
+* Authentication-State Driven Rendering
+* API Consumption using Axios / Fetch
+* Form-Based Authentication Workflows
+* Tailwind-Based UI Layout Structuring
+
+---
+
+## Deployment Infrastructure
+
+* Render Cloud Deployment
+* GitHub-Based Deployment Workflow
+* Environment Variable Based Configuration
 
 ---
 
 ## Problem Solving (C++)
 
-Actively practicing Data Structures and Algorithms using C++ with focus on:
+Practicing Data Structures and Algorithms with focus on:
 
-- Arrays  
-- Strings  
-- Basic Recursion  
-- Iterative Traversal  
-- Pattern-Based Questions  
+* Arrays
+* Strings
+* Recursion
+* Iterative Traversal
+* Pattern-Based Problems
 
 ---
 
 ## Contact
 
-LinkedIn:  
+LinkedIn  
 https://www.linkedin.com/in/muskan-bhagwashiya-144564331/
 
-Email:  
+Email  
 25muskaaan@gmail.com
